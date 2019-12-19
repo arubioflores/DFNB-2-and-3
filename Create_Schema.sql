@@ -9,7 +9,7 @@ SUPPORT: Alex Rubio
 MODIFICATION LOG:
 Ver       Date         Author       Description
 -------   ----------   ----------   -----------------------------------------------------------------------------
-1.0       12/10/2019   ARUBIO      1. Built and loaded the SQL script. 
+1.0       12/19/2019   ARUBIO      1. Built and loaded the SQL script. 
 
 
 
